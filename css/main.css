@@ -1,0 +1,11 @@
+.roundedbutton{border-radius:10px;background:#3498db;color:#fff}
+h1{font-size:34px}
+h2{font-size:28.5px}
+p{font-size:16px}
+body{font-family:"Avant Garde",Avantgarde,"Century Gothic",CenturyGothic,"AppleGothic",sans-serif;font-size:19px;color:#ffc0cb;font-weight:300;text-decoration:underline;line-height:32px}
+header{background-color:#ccc;width:800px}header nav{background-color:#f00}header nav ul{list-style-type:none;margin:0;padding:0}header nav ul li{margin-right:15px;display:inline}header nav ul li:last-child{margin-right:0}
+header nav ul li:nth-child(2){color:#f00}
+a{color:#000}a:hover{text-decoration:none}
+section{width:800px;background-color:#808080}section article header{width:400px;background-color:#008000}section article header h2{font-size:32px}
+section article p button[type="submit"]{border-radius:10px;background:#3498db;color:#fff;padding:5px 2px}
+footer .mysquare{width:45px;height:45px;background-color:#000}
